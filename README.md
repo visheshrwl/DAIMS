@@ -48,7 +48,7 @@ We welcome contributions to DIAMS! If you'd like to contribute, please follow th
 - Commit your changes and push them to your fork.
 - Submit a pull request, explaining the changes you've made.
 
-## Project Title: Decentralized Intelligent Asset Management System (DIAMS)
+<br />
 
 ### Project Description
 DIAMS is a comprehensive web-based application that aims to revolutionize asset management using cutting-edge technologies. It leverages the power of Web3, AI/ML, DSA, DevOps, and cybersecurity to create a secure, intelligent, and decentralized system for managing digital and physical assets.
