@@ -49,7 +49,8 @@ We welcome contributions to DIAMS! If you'd like to contribute, please follow th
 - Submit a pull request, explaining the changes you've made.
 
 <br />
-***
+
+(***)
 
 
 ### Project Description
